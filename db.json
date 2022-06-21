@@ -1,0 +1,98 @@
+{
+  "projects": [
+    {
+      "name": "teste2 atualizado",
+      "budget": "99999",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 1264,
+      "services": [
+        {
+          "name": "dadada",
+          "cost": "100",
+          "description": "dadada",
+          "id": "e4a878e5-e8a8-409a-8f50-b410b66dcec1"
+        },
+        {
+          "name": "dadada",
+          "cost": "110",
+          "description": "dadada",
+          "id": "9bb0cb8d-210f-4407-bfb9-d4cf38471a62"
+        },
+        {
+          "name": "dadada 22222",
+          "cost": "1000",
+          "description": "dadada",
+          "id": "5071025b-7759-42ef-883b-1d7031943138"
+        },
+        {
+          "cost": "22",
+          "name": "teste 8",
+          "description": "mmmmmm",
+          "id": "c7139339-285e-4753-a733-c922a011d6c0"
+        },
+        {
+          "cost": "-2",
+          "name": "teste 8",
+          "description": "mmmmmm",
+          "id": "0359753f-edd8-4190-a6ea-330640ae9829"
+        },
+        {
+          "cost": "10",
+          "name": "teste 8",
+          "description": "mmmmmm",
+          "id": "51ec8ea0-ff4d-43f2-ac32-07e77f68231d"
+        },
+        {
+          "name": "dadad",
+          "cost": "24",
+          "description": "jlfkjllfkakflaffaf",
+          "id": "3123ad2f-940e-46f3-983f-ab8d90a63f65"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "teste 3",
+      "budget": "100000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
+    },
+    {
+      "name": "denovo",
+      "budget": "10000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 5
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
